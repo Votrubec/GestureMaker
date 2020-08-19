@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Ookii.Dialogs.Wpf.NETCore/2.1.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Ookii.Dialogs.Wpf.dll": {
+            "assemblyVersion": "2.1.20100.0",
+            "fileVersion": "2.0.20100.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Ookii.Dialogs.Wpf.NETCore/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f2aBysqciLkGT9c3JuqV3H5jodvZ6x0sWT5b2Uuq6ZTlTY43v1Nr1J7J7jbNHhV0WFkkF1KngnjGjha5mJCvuA==",
+      "path": "ookii.dialogs.wpf.netcore/2.1.0",
+      "hashPath": "ookii.dialogs.wpf.netcore.2.1.0.nupkg.sha512"
+    }
+  }
+}
